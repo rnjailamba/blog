@@ -50,8 +50,8 @@ Also be sure to check out other [Free & Open Source Gatsby Themes](https://theme
 Use `git` to clone the site and navigate into it:
 
 ```sh
-git clone https://github.com/LekoArts/gatsby-starter-minimal-blog project-name
-cd project-name
+git clone https://github.com/rnjailamba/blog blog
+cd blog
 ```
 
 ### 2. **Install dependencies.**
